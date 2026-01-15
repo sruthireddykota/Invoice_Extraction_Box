@@ -1,0 +1,6 @@
+streamlit==1.52.2
+langchain==1.2.3
+langchain-community==0.4.1
+langchain-openai
+PyPDF2
+replicate
